@@ -15,7 +15,7 @@ import (
 	"graphics.gd/startup"
 	"graphics.gd/variant/Float"
 
-	"github.com/quaadgras/velopack-go/velopack"
+	"github.com/pokertour/velopack-go/velopack"
 )
 
 var catch_early_logs []string
